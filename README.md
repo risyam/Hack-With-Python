@@ -1,2 +1,2 @@
 # Hack-With-Python
-Simple Python scripts for Website Hacking
+Simple Python scripts for Hacking
